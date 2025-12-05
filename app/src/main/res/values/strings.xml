@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Start WiFi</string>
+    <string name="net_controll">Network control</string>
+    <string name="net_controll_on">Network control is active</string>
+    <string name="net_controll_off">No internet connection</string>
+    <string name="net_watcher">Net Watcher</string>
+    <string name="net_controll_monitoring">Network connection monitoring</string>>
+</resources>
